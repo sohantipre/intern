@@ -1,0 +1,11 @@
+.carousel-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.carousel {
+  background-color: #1c2237;
+
+  /* background-image: linear-gradient(120deg, rgb(72, 59, 83), rgb(49, 57, 63)); */
+}
